@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10451478-Khaya-Nxumalo\\ABCRetail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10451478-khaya-nxumalo\\abcretail\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10451478-khaya-nxumalo\\abcretail\\services\\filesharestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|solutionrelative:services\\filesharestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10451478-khaya-nxumalo\\abcretail\\services\\queuestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|solutionrelative:services\\queuestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10451478-khaya-nxumalo\\abcretail\\services\\blobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|solutionrelative:services\\blobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10451478-khaya-nxumalo\\abcretail\\services\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|solutionrelative:services\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10451478-khaya-nxumalo\\abcretail\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10451478-Khaya-Nxumalo\\ABCRetail\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10451478-Khaya-Nxumalo\\ABCRetail\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAADdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-27T19:35:50.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileShareStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10451478-Khaya-Nxumalo\\ABCRetail\\Services\\FileShareStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\FileShareStorageService.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10451478-Khaya-Nxumalo\\ABCRetail\\Services\\FileShareStorageService.cs",
+              "RelativeToolTip": "Services\\FileShareStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T19:35:00.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QueueStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10451478-Khaya-Nxumalo\\ABCRetail\\Services\\QueueStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\QueueStorageService.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10451478-Khaya-Nxumalo\\ABCRetail\\Services\\QueueStorageService.cs",
+              "RelativeToolTip": "Services\\QueueStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T19:34:13.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlobStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10451478-Khaya-Nxumalo\\ABCRetail\\Services\\BlobStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\BlobStorageService.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10451478-Khaya-Nxumalo\\ABCRetail\\Services\\BlobStorageService.cs",
+              "RelativeToolTip": "Services\\BlobStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T19:33:08.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TableStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10451478-Khaya-Nxumalo\\ABCRetail\\Services\\TableStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\TableStorageService.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10451478-Khaya-Nxumalo\\ABCRetail\\Services\\TableStorageService.cs",
+              "RelativeToolTip": "Services\\TableStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T19:32:42.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10451478-Khaya-Nxumalo\\ABCRetail\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10451478-Khaya-Nxumalo\\ABCRetail\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T19:09:13.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
