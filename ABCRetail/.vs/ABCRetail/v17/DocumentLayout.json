@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10451478-Khaya-Nxumalo\\ABCRetail\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10451478-khaya-nxumalo\\abcretail\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|solutionrelative:views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10451478-khaya-nxumalo\\abcretail\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10451478-khaya-nxumalo\\abcretail\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|solutionrelative:views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10451478-khaya-nxumalo\\abcretail\\services\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|solutionrelative:services\\tablestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10451478-khaya-nxumalo\\abcretail\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10451478-khaya-nxumalo\\abcretail\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|solutionrelative:views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10451478-khaya-nxumalo\\abcretail\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|solutionrelative:views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10451478-khaya-nxumalo\\abcretail\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10451478-khaya-nxumalo\\abcretail\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10451478-khaya-nxumalo\\abcretail\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8F91EF78-0127-46A3-946A-1F860732BD26}|ABCRetail.csproj|c:\\users\\dell\\onedrive\\documents\\cldv6212-part-1-st10451478-khaya-nxumalo\\abcretail\\services\\queuestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -89,7 +89,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -97,20 +97,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10451478-Khaya-Nxumalo\\ABCRetail\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
               "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10451478-Khaya-Nxumalo\\ABCRetail\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALcAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAfGZmZuYhwAABAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T13:00:36.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10451478-Khaya-Nxumalo\\ABCRetail\\Views\\Customer\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Customer\\Delete.cshtml",
@@ -123,20 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10451478-Khaya-Nxumalo\\ABCRetail\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10451478-Khaya-Nxumalo\\ABCRetail\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T19:20:34.986Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10451478-Khaya-Nxumalo\\ABCRetail\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Models\\Order.cs",
@@ -144,12 +131,11 @@
               "RelativeToolTip": "Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T19:27:02.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T19:27:02.957Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10451478-Khaya-Nxumalo\\ABCRetail\\Views\\Customer\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Customer\\Edit.cshtml",
@@ -157,25 +143,24 @@
               "RelativeToolTip": "Views\\Customer\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-28T16:19:17.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T16:19:17.493Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "TableStorageService.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10451478-Khaya-Nxumalo\\ABCRetail\\Services\\TableStorageService.cs",
               "RelativeDocumentMoniker": "Services\\TableStorageService.cs",
               "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10451478-Khaya-Nxumalo\\ABCRetail\\Services\\TableStorageService.cs",
               "RelativeToolTip": "Services\\TableStorageService.cs",
-              "ViewState": "AgIAAGgAAACAwszMzMwIwIIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAADAuMzMzMwIwIQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-27T19:32:42.718Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10451478-Khaya-Nxumalo\\ABCRetail\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "Models\\Customer.cs",
@@ -188,6 +173,18 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10451478-Khaya-Nxumalo\\ABCRetail\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10451478-Khaya-Nxumalo\\ABCRetail\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:20:34.986Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
               "Title": "FileShareStorageService.cs",
               "DocumentMoniker": "C:\\Users\\Dell\\OneDrive\\Documents\\cldv6212-part-1-st10451478-Khaya-Nxumalo\\ABCRetail\\Services\\FileShareStorageService.cs",
@@ -196,8 +193,7 @@
               "RelativeToolTip": "Services\\FileShareStorageService.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAswCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T19:35:00.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T19:35:00.075Z"
             },
             {
               "$type": "Document",
@@ -209,8 +205,7 @@
               "RelativeToolTip": "Services\\BlobStorageService.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAwwDwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T19:33:08.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T19:33:08.922Z"
             },
             {
               "$type": "Document",
@@ -222,8 +217,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAswB0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T10:45:52.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T10:45:52.005Z"
             },
             {
               "$type": "Document",
@@ -235,8 +229,7 @@
               "RelativeToolTip": "Services\\QueueStorageService.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAA/wDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T19:34:13.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T19:34:13.12Z"
             },
             {
               "$type": "Document",
@@ -248,8 +241,7 @@
               "RelativeToolTip": "Views\\Customer\\Details.cshtml",
               "ViewState": "AgIAAAEAAAAAAAAAAAAewA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-28T15:49:54.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T15:49:54.068Z"
             },
             {
               "$type": "Document",
@@ -261,8 +253,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAADdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-27T19:35:50.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T19:35:50.008Z"
             },
             {
               "$type": "Document",
@@ -274,8 +265,7 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAYwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-28T13:58:18.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T13:58:18.12Z"
             },
             {
               "$type": "Document",
@@ -287,8 +277,7 @@
               "RelativeToolTip": "Views\\Customer\\log.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-28T18:37:41.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T18:37:41.968Z"
             },
             {
               "$type": "Document",
@@ -300,8 +289,7 @@
               "RelativeToolTip": "Views\\Customer\\Index.cshtml",
               "ViewState": "AgIAAAEAAAAAAAAAAAAYwCQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-28T13:10:08.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T13:10:08.082Z"
             },
             {
               "$type": "Document",
@@ -313,8 +301,7 @@
               "RelativeToolTip": "Views\\Customer\\Create.cshtml",
               "ViewState": "AgIAAAIAAAAAAAAAAAAYwCUAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-28T14:30:25.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T14:30:25.073Z"
             },
             {
               "$type": "Document",
@@ -326,8 +313,7 @@
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-08-28T18:56:03.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T18:56:03.427Z"
             },
             {
               "$type": "Document",
@@ -337,7 +323,6 @@
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\e1bbbd8a-de29-4a77-8ebc-7831b61988d3_SMS (2).zip.8d3\\SMS\\Services\\FileShareStorageService.cs",
               "ToolTip": "C:\\Users\\Dell\\AppData\\Local\\Temp\\e1bbbd8a-de29-4a77-8ebc-7831b61988d3_SMS (2).zip.8d3\\SMS\\Services\\FileShareStorageService.cs [Read Only]",
               "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\e1bbbd8a-de29-4a77-8ebc-7831b61988d3_SMS (2).zip.8d3\\SMS\\Services\\FileShareStorageService.cs [Read Only]",
-              "ViewState": "AgIAAAoAAAAAAAAAAAB0PScAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-28T18:43:22.019Z",
               "EditorCaption": " [Read Only]"
@@ -352,8 +337,7 @@
               "RelativeToolTip": "Models\\QueueLogViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T18:30:19.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-28T18:30:19.066Z"
             }
           ]
         }

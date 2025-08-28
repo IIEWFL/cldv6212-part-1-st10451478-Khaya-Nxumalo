@@ -252,3 +252,5 @@ namespace ABCRetail.Controllers
     }
 
 }
+//C# Corner, 2018. Azure Storage CRUD Operations In MVC Using C# - Azure Table Storage - Part One. [online] Available at: https://www.c-sharpcorner.com/article/azure-storage-crud-operations-in-mvc-using-c-sharp-azure-table-storage-part-one [Accessed 25 Aug. 2025].
+//Code Maze, 2022. Azure Table Storage with ASP.NET Core. [online] Available at: https://code-maze.com/azure-table-storage-aspnetcore [Accessed 25 Aug. 2025].

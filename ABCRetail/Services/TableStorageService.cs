@@ -128,7 +128,9 @@ namespace ABCRetail.Services
             await _tableClient.DeleteEntityAsync(partitionKey, rowKey);
         }
 
-        
+        // Microsoft Learn, 2024. Azure.Data.Tables Namespace - Azure for .NET Developers. [online] Available at: https://learn.microsoft.com/en-us/dotnet/api/azure.data.tables [Accessed 25 Aug. 2025].
+        // Microsoft Learn, 2024. Performance and scalability checklist for Table storage. [online] Available at: https://learn.microsoft.com/en-us/azure/storage/tables/storage-performance-checklist [Accessed 25 Aug. 2025].
+
 
 
     }
