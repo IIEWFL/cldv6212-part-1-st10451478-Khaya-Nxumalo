@@ -1,0 +1,37 @@
+﻿@model IEnumerable<ABCRetail.Models.Customer>
+
+    <h2h>Customer</h2h>
+
+<a class="btn btn-primary" asp-action="Create">Add New Customer</a>
+
+<a class="btn btn-info" asp-action="Log">View Log</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Profile Picture</th>
+            <th>Name</th>
+            <th>Phone Number</th>
+            <th>Email</th>
+            <th>Address</th>
+            <th>Manage</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var customer in Model)
+        {
+            <tr>
+                <td><img src=@customer.PhotoUrl alt=@customer.Name /></td>
+                <td>@customer.Name</td>
+                <td>@customer.PhoneNumber</td>
+                <td>@customer.Email</td>
+                <td>@customer.Address</td>
+                <td>
+                    <a asp-action="Details" asp-route-partitionKey="@customer.PartitionKey" asp-route-rowKey="@customer.RowKey">Details</a> |
+                    <a asp-action="Edit" asp-route-partitionKey="@customer.PartitionKey" asp-route-rowKey="@customer.RowKey">Edit</a> |
+                    <a asp-action="Delete" asp-route-partitionKey="@customer.PartitionKey" asp-route-rowKey="@customer.RowKey">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

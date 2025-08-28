@@ -1,3 +1,5 @@
+using ABCRetail.Services;
+
 namespace ABCRetail
 {
     public class Program
@@ -8,6 +10,22 @@ namespace ABCRetail
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            // Retrieve the connection string from appsettings.json
+            var storageConnectionString = builder.Configuration.GetConnectionString("StorageConnectionString");
+
+            // Ensure the connection string is not null before using it
+            if (string.IsNullOrEmpty(storageConnectionString))
+            {
+                throw new InvalidOperationException("StorageConnectionString is missing from configuration.");
+            }
+
+            // Register storage services 
+            builder.Services.AddSingleton(new TableStorageService(storageConnectionString, "Customer"));
+            builder.Services.AddSingleton(new BlobStorageService(storageConnectionString, "product-images"));
+            builder.Services.AddSingleton(new QueueStorageService(storageConnectionString, "abc-log-messages"));
+            builder.Services.AddSingleton(new FileShareStorageService(storageConnectionString, "abc-log-files"));
+
 
             var app = builder.Build();
 

@@ -1,0 +1,17 @@
+C:\Users\Dell\OneDrive\Documents\cldv6212-part-1-st10451478-Khaya-Nxumalo\ABCRetail\obj\Release\net8.0\PubTmp\Out\ABCRetail.exe
+C:\Users\Dell\OneDrive\Documents\cldv6212-part-1-st10451478-Khaya-Nxumalo\ABCRetail\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Dell\OneDrive\Documents\cldv6212-part-1-st10451478-Khaya-Nxumalo\ABCRetail\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Dell\OneDrive\Documents\cldv6212-part-1-st10451478-Khaya-Nxumalo\ABCRetail\obj\Release\net8.0\PubTmp\Out\ABCRetail.dll
+C:\Users\Dell\OneDrive\Documents\cldv6212-part-1-st10451478-Khaya-Nxumalo\ABCRetail\obj\Release\net8.0\PubTmp\Out\ABCRetail.deps.json
+C:\Users\Dell\OneDrive\Documents\cldv6212-part-1-st10451478-Khaya-Nxumalo\ABCRetail\obj\Release\net8.0\PubTmp\Out\ABCRetail.runtimeconfig.json
+C:\Users\Dell\OneDrive\Documents\cldv6212-part-1-st10451478-Khaya-Nxumalo\ABCRetail\obj\Release\net8.0\PubTmp\Out\ABCRetail.pdb
+C:\Users\Dell\OneDrive\Documents\cldv6212-part-1-st10451478-Khaya-Nxumalo\ABCRetail\obj\Release\net8.0\PubTmp\Out\Azure.Core.dll
+C:\Users\Dell\OneDrive\Documents\cldv6212-part-1-st10451478-Khaya-Nxumalo\ABCRetail\obj\Release\net8.0\PubTmp\Out\Azure.Data.Tables.dll
+C:\Users\Dell\OneDrive\Documents\cldv6212-part-1-st10451478-Khaya-Nxumalo\ABCRetail\obj\Release\net8.0\PubTmp\Out\Azure.Storage.Blobs.dll
+C:\Users\Dell\OneDrive\Documents\cldv6212-part-1-st10451478-Khaya-Nxumalo\ABCRetail\obj\Release\net8.0\PubTmp\Out\Azure.Storage.Common.dll
+C:\Users\Dell\OneDrive\Documents\cldv6212-part-1-st10451478-Khaya-Nxumalo\ABCRetail\obj\Release\net8.0\PubTmp\Out\Azure.Storage.Files.Shares.dll
+C:\Users\Dell\OneDrive\Documents\cldv6212-part-1-st10451478-Khaya-Nxumalo\ABCRetail\obj\Release\net8.0\PubTmp\Out\Azure.Storage.Queues.dll
+C:\Users\Dell\OneDrive\Documents\cldv6212-part-1-st10451478-Khaya-Nxumalo\ABCRetail\obj\Release\net8.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dell\OneDrive\Documents\cldv6212-part-1-st10451478-Khaya-Nxumalo\ABCRetail\obj\Release\net8.0\PubTmp\Out\System.ClientModel.dll
+C:\Users\Dell\OneDrive\Documents\cldv6212-part-1-st10451478-Khaya-Nxumalo\ABCRetail\obj\Release\net8.0\PubTmp\Out\System.IO.Hashing.dll
+C:\Users\Dell\OneDrive\Documents\cldv6212-part-1-st10451478-Khaya-Nxumalo\ABCRetail\obj\Release\net8.0\PubTmp\Out\System.Memory.Data.dll

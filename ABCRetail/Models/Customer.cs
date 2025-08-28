@@ -3,7 +3,7 @@ using Azure.Data.Tables;
 
 namespace ABCRetail.Models
 {
-    public class CustomerEntity : ITableEntity
+    public class Customer : ITableEntity
     {
         public string? PartitionKey { get; set; }
         public string? RowKey { get; set; }
